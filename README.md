@@ -23,8 +23,12 @@ In conclusion, AMR poses a significant threat to cancer epidemiology, affecting 
 
 # References
 
-Infectious Diseases Society of America. (2024). Cancer and Antimicrobial Resistance. Retrieved from https://www.idsociety.org/contentassets/b25d621bcebc4ec3a7f4fb5a73c2a6d5/infectious-diseases-and-cancer-fact-sheet_.pdf
-The Lancet. (2022). Global burden of bacterial antimicrobial resistance in 2019. Retrieved from https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2821%2902724-0/fulltext
-Union for International Cancer Control (UICC). (2024). AMR and cancer series. Retrieved from https://www.uicc.org/what-we-do/sharing-knowledge/virtual-dialogues/amr-and-cancer-series
-Centers for Disease Control and Prevention (CDC). (2024). Impacts of Antimicrobial Resistance on Cancer Care. Retrieved from https://www.cdc.gov/antimicrobial-resistance/stories/impacts-of-antimicrobial-resistance-on-cancer-care.html
-Pruvost, I., et al. (2023). Clinical outcomes of antimicrobial resistance in cancer patients: a systematic review of multivariable models. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10114324/
+1.Infectious Diseases Society of America. (2024). Cancer and Antimicrobial Resistance. Retrieved from https://www.idsociety.org/contentassets/b25d621bcebc4ec3a7f4fb5a73c2a6d5/infectious-diseases-and-cancer-fact-sheet_.pdf
+
+2.The Lancet. (2022). Global burden of bacterial antimicrobial resistance in 2019. Retrieved from https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2821%2902724-0/fulltext
+
+3.Union for International Cancer Control (UICC). (2024). AMR and cancer series. Retrieved from https://www.uicc.org/what-we-do/sharing-knowledge/virtual-dialogues/amr-and-cancer-series
+
+4.Centers for Disease Control and Prevention (CDC). (2024). Impacts of Antimicrobial Resistance on Cancer Care. Retrieved from https://www.cdc.gov/antimicrobial-resistance/stories/impacts-of-antimicrobial-resistance-on-cancer-care.html
+
+5.Pruvost, I., et al. (2023). Clinical outcomes of antimicrobial resistance in cancer patients: a systematic review of multivariable models. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10114324/
