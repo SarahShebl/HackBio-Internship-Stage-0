@@ -9,11 +9,11 @@ To explore the impact of AMR on cancer epidemiology, a systematic review of rece
 
 # Results
 
-Infections are a leading cause of morbidity and mortality in cancer patients. Research indicates that nearly 50% of deaths in patients with hematological malignancies or solid tumors are associated with infections, many of which are caused by resistant organisms [1]. A systematic review found that 26.8% of pathogens identified in cancer patients were resistant to the prophylactic antibiotics typically prescribed to prevent infections after chemotherapy [5]. This resistance not only complicates treatment but also leads to longer hospital stays and increased healthcare costs. For instance, neutropenia-related costs during first-line chemotherapy accounted for over 32% of total healthcare expenses for patients with non-small cell lung cancer [1].
+Infections are a leading cause of morbidity and mortality in cancer patients. Research indicates that nearly 50% of deaths in patients with hematological malignancies or solid tumors are associated with infections, many of which are caused by resistant organisms. A systematic review found that 26.8% of pathogens identified in cancer patients were resistant to the prophylactic antibiotics typically prescribed to prevent infections after chemotherapy. This resistance not only complicates treatment but also leads to longer hospital stays and increased healthcare costs. For instance, neutropenia-related costs during first-line chemotherapy accounted for over 32% of total healthcare expenses for patients with non-small cell lung cancer.
 
 # Discussion
 
-The intersection of AMR and cancer epidemiology underscores the urgent need for effective infection prevention and control strategies. Implementing robust antimicrobial stewardship programs in oncology settings is essential to minimize inappropriate antibiotic use and preserve the efficacy of existing antibiotics. These programs have been shown to improve patient outcomes and reduce healthcare costs [4]. Additionally, enhancing surveillance systems to monitor AMR patterns in cancer patients is crucial for timely interventions [3].
+The intersection of AMR and cancer epidemiology underscores the urgent need for effective infection prevention and control strategies. Implementing robust antimicrobial stewardship programs in oncology settings is essential to minimize inappropriate antibiotic use and preserve the efficacy of existing antibiotics. These programs have been shown to improve patient outcomes and reduce healthcare costs. Additionally, enhancing surveillance systems to monitor AMR patterns in cancer patients is crucial for timely interventions.
 
 # Conclusion
 
