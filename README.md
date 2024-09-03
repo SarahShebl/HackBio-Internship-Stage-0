@@ -1,4 +1,4 @@
-# hackbio-cancer-internship
+# Hackbio-Cancer-Internship
 # Antimicrobial Resistance in Cancer Epidemiology
 
 Antimicrobial resistance (AMR) poses a significant challenge in cancer care, where patients are more susceptible to infections due to immunosuppression caused by both the disease and its treatments. The emergence of drug-resistant pathogens complicates the management of these infections, potentially leading to increased morbidity and mortality among cancer patients. Understanding the implications of AMR in cancer epidemiology is essential for developing effective strategies to combat this growing threat.
