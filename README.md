@@ -1,25 +1,12 @@
 # Hackbio-Cancer-Internship
 # Antimicrobial Resistance in Cancer Epidemiology
 
-Antimicrobial resistance (AMR) poses a significant challenge in cancer care, where patients are more susceptible to infections due to immunosuppression caused by both the disease and its treatments. The emergence of drug-resistant pathogens complicates the management of these infections, potentially leading to increased morbidity and mortality among cancer patients. Understanding the implications of AMR in cancer epidemiology is essential for developing effective strategies to combat this growing threat.
-
-# Methods
-
-To explore the impact of AMR on cancer epidemiology, a systematic review of recent literature was conducted. Databases such as PubMed, Google Scholar, and the Cochrane Library were searched using keywords including "antimicrobial resistance," "cancer," and "epidemiology." Studies published from 2020 to 2024 were prioritized to ensure the inclusion of the most current data. The review focused on peer-reviewed articles, clinical studies, and meta-analyses that examined the prevalence of resistant infections among cancer patients, the outcomes associated with these infections.
-
-# Results
-
-Infections are a leading cause of morbidity and mortality in cancer patients. Research indicates that nearly 50% of deaths in patients with hematological malignancies or solid tumors are associated with infections, many of which are caused by resistant organisms. A systematic review found that 26.8% of pathogens identified in cancer patients were resistant to the prophylactic antibiotics typically prescribed to prevent infections after chemotherapy. This resistance not only complicates treatment but also leads to longer hospital stays and increased healthcare costs. For instance, neutropenia-related costs during first-line chemotherapy accounted for over 32% of total healthcare expenses for patients with non-small cell lung cancer.
-
-# Discussion
-
-The intersection of AMR and cancer epidemiology underscores the urgent need for effective infection prevention and control strategies. Implementing robust antimicrobial stewardship programs in oncology settings is essential to minimize inappropriate antibiotic use and preserve the efficacy of existing antibiotics. These programs have been shown to improve patient outcomes and reduce healthcare costs. Additionally, enhancing surveillance systems to monitor AMR patterns in cancer patients is crucial for timely interventions.
-
+Antimicrobial resistance (AMR) has emerged as a critical global health issue, significantly impacting cancer care. Infections are now the second leading cause of death among cancer patients, with AMR posing severe challenges to the effectiveness of cancer treatments. The immunosuppressive effects of cancer and its therapies, such as chemotherapy and radiation, leave patients particularly vulnerable to infections (Pruvost et al., 2023). Recognizing the urgency of this situation, the World Health Organization (WHO) and the US Centers for Disease Control and Prevention (CDC) have identified AMR as a pressing global threat that affects nearly all available antibiotics.
+Infections are a major contributor to morbidity and mortality in cancer patients, with nearly half of all deaths in those with hematological malignancies or solid tumors linked to infections caused by resistant pathogens (Pruvost et al., 2023). A systematic review highlighted that 26.8% of pathogens identified in these patients were resistant to the prophylactic antibiotics typically administered to prevent infections following chemotherapy (UICC, 2024).The mechanisms behind AMR are diverse and include genetic mutations that alter antibiotic target sites, horizontal gene transfer among bacteria, the production of enzymes that inactivate antibiotics, and changes in cell membrane permeability that restrict drug entry (Prestinaci et al., 2015). These factors contribute to the complex landscape of AMR in cancer care, emphasizing the urgent need for effective strategies to combat this escalating threat.
+# Case Study
+A notable case involves a 56-year-old man with a history of acute myeloid leukemia (AML) who presented with fever and severe abdominal pain. He was diagnosed with a bacterial infection caused by a resistant strain of Staphylococcus aureus. Despite receiving broad-spectrum antibiotics, his condition deteriorated, requiring surgical intervention. After surgery and a customized antibiotic regimen, the patient's infection resolved, allowing him to continue his chemotherapy. This case illustrates the critical importance of timely identification and management of infections in cancer patients to avoid treatment delays and enhance outcomes (Bishop et al., 2021).
 # Conclusion
-
-In conclusion, AMR poses a significant threat to cancer epidemiology, affecting patient outcomes and healthcare costs. As the incidence of drug-resistant infections rises, it is imperative for healthcare systems to implement comprehensive strategies that address both AMR and the unique needs of cancer patients. By fostering collaboration among healthcare providers, researchers, and policymakers, we can mitigate the impact of AMR and improve the quality of care for this vulnerable population.
-
- 
+The intersection of antimicrobial resistance (AMR) and cancer care underscores the urgent need for strong infection prevention and control strategies. Effective antimicrobial stewardship programs in oncology are crucial to reduce unnecessary antibiotic use and preserve treatment efficacy. These initiatives have shown positive impacts on patient outcomes and healthcare costs. Additionally, improving surveillance systems for AMR patterns in cancer patients is essential for timely interventions. As drug-resistant infections rise, healthcare systems must implement comprehensive strategies tailored to the unique challenges of cancer patients, requiring collaboration among healthcare providers, researchers, and policymakers to enhance care for this vulnerable group.
 
 # References
 
