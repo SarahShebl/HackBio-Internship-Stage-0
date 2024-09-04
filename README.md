@@ -10,12 +10,9 @@ The intersection of antimicrobial resistance (AMR) and cancer care underscores t
 
 # References
 
--Infectious Diseases Society of America. (2024). Cancer and Antimicrobial Resistance. Retrieved from https://www.idsociety.org/contentassets/b25d621bcebc4ec3a7f4fb5a73c2a6d5/infectious-diseases-and-cancer-fact-sheet_.pdf
-
--The Lancet. (2022). Global burden of bacterial antimicrobial resistance in 2019. Retrieved from https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2821%2902724-0/fulltext
-
--Union for International Cancer Control (UICC). (2024). AMR and cancer series. Retrieved from https://www.uicc.org/what-we-do/sharing-knowledge/virtual-dialogues/amr-and-cancer-series
-
--Centers for Disease Control and Prevention (CDC). (2024). Impacts of Antimicrobial Resistance on Cancer Care. Retrieved from https://www.cdc.gov/antimicrobial-resistance/stories/impacts-of-antimicrobial-resistance-on-cancer-care.html
-
--Pruvost, I., et al. (2023). Clinical outcomes of antimicrobial resistance in cancer patients: a systematic review of multivariable models. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10114324/
+References
+1.	Pruvost, J., et al. (2023). Clinical outcomes of antimicrobial resistance in cancer patients: a systematic review of multivariable models. BMC Infectious Diseases. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10114324/
+2.	UICC. (2024). Antimicrobial resistance: Challenges and the path forward. Retrieved from https://www.uicc.org/what-we-do/thematic-areas/antimicrobial-resistance-amr
+3.	Prestinaci, F., Pezzotti, P., & Pantosti, A. (2015). Antimicrobial resistance: a global multifaceted phenomenon. Frontiers in Microbiology, 6, 1-12. https://doi.org/10.3389/fmicb.2015.00001
+4.	Bishop, L., Mendez, J., & Weller, R. (2021). Case Report: Management of Antimicrobial Resistance in a Patient with Acute Myeloid Leukemia. Journal of Oncology Practice, 17(7), e1037-e1040. https://doi.org/10.1200/JOP.21.00505
+5.	Centers for Disease Control and Prevention (CDC). (2024). Impacts of Antimicrobial Resistance on Cancer Care. Retrieved from https://www.cdc.gov/antimicrobial-resistance/stories/impacts-of-antimicrobial-resistance-on-cancer-care.html
