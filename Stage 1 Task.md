@@ -1,6 +1,6 @@
 **Whole-Genome Sequencing Accurately Identifies resistance to Extended-Spectrum β-Lactams for Major Gram-Negative Bacterial Pathogens**
 
-Authors Sarah Shebl (@Sarah50), Akeemat Ayinla (@That\_Hakeemah), Frederick Allou (@Freddie), Duong Gia Khanh (@Khanh)\
+Authors: Sarah Shebl (@Sarah50), Akeemat Ayinla (@That\_Hakeemah), Frederick Allou (@Freddie), Duong Gia Khanh (@Khanh)\
 \
 Video link: <https://www.linkedin.com/posts/sarah-shebl-a8159b203_wgs-antimicrobialresistance-hackbio-activity-7238132635984683008-8-37?utm_source=share&utm_medium=member_desktop><!--[if !supportLineBreakNewLine]-->\ <!--[endif]-->
 
