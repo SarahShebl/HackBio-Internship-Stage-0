@@ -1,4 +1,4 @@
-**Whole-Genome Sequencing Accurately Identifies resistance to Extended-Spectrum β-Lactams for Major Gram-Negative Bacterial Pathogens <!--[if !supportLineBreakNewLine]-->\ <!--[endif]-->**
+**Whole-Genome Sequencing Accurately Identifies resistance to Extended-Spectrum β-Lactams for Major Gram-Negative Bacterial Pathogens
 
 Authors Sarah Shebl (@Sarah50), Akeemat Ayinla (@That\_Hakeemah), Frederick Allou (@Freddie), Duong Gia Khanh (@Khanh)\
 \
