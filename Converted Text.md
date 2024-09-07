@@ -1,31 +1,32 @@
-**Antimicrobial Resistance in Cancer Epidemiology**
+**Whole-Genome Sequencing Accurately Identifies resistance to Extended-Spectrum β-Lactams for Major Gram-Negative Bacterial Pathogens <!--[if !supportLineBreakNewLine]-->\ <!--[endif]-->**
 
-Antimicrobial resistance (AMR) poses a significant challenge in cancer care, where patients are more susceptible to infections due to immunosuppression caused by both the disease and its treatments. The emergence of drug-resistant pathogens complicates the management of these infections, potentially leading to increased morbidity and mortality among cancer patients. Understanding the implications of AMR in cancer epidemiology is essential for developing effective strategies to combat this growing threat.
+Authors Sarah Shebl (@Sarah50), Akeemat Ayinla (@That\_Hakeemah), Frederick Allou (@Freddie), Duong Gia Khanh (@Khanh)\
+\
+Video link: <https://www.linkedin.com/posts/sarah-shebl-a8159b203_wgs-antimicrobialresistance-hackbio-activity-7238132635984683008-8-37?utm_source=share&utm_medium=member_desktop><!--[if !supportLineBreakNewLine]-->\ <!--[endif]-->
 
-**Methods**
+**Introduction**
 
-To explore the impact of AMR on cancer epidemiology, a systematic review of recent literature was conducted. Databases such as PubMed, Google Scholar, and the Cochrane Library were searched using keywords including "antimicrobial resistance," "cancer," and "epidemiology." Studies published from 2020 to 2024 were prioritized to ensure the inclusion of the most current data. The review focused on peer-reviewed articles, clinical studies, and meta-analyses that examined the prevalence of resistant infections among cancer patients, the outcomes associated with these infections.
+The study explores the effectiveness of whole-genome sequencing (WGS) in predicting antimicrobial resistance (AMR) compared to traditional methods such as PCR as a genotypic method and broth microdilution (BMD) as a phenotypic method. This research addresses the growing challenge of β-Lactam resistance among gram-negative bacteria, which poses a serious threat to the treatment of neutropenic cancer patients. By evaluating WGS alongside PCR and BMD, the study highlights how WGS can provide a more comprehensive understanding of resistance mechanisms, potentially leading to better-informed treatment decisions in this high-risk population.\
+\
+**Methodology**\
+The study used Illumina MiSeq WGS and BMD to analyze 90 bloodstream isolates from common gram-negative bacteria (_Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa _and_ Enterobacter cloacae_) in cancer patients. The study aimed to estimate resistance to four β-Lactams (ceftazidime, cefepime, piperacillin-tazobactam (P/T), and meropenem) commonly used in the treatment of neutropenic cancer patients with fever.\
+\
+**Results and discussion**
 
-**Results**
+**Advantages of WGS over PCR**
 
-Infections are a leading cause of morbidity and mortality in cancer patients. Research indicates that nearly 50% of deaths in patients with hematological malignancies or solid tumors are associated with infections, many of which are caused by resistant organisms \[1]. A systematic review found that 26.8% of pathogens identified in cancer patients were resistant to the prophylactic antibiotics typically prescribed to prevent infections after chemotherapy \[5]. This resistance not only complicates treatment but also leads to longer hospital stays and increased healthcare costs. For instance, neutropenia-related costs during first-line chemotherapy accounted for over 32% of total healthcare expenses for patients with non-small cell lung cancer \[1].<sup></sup>
+WGS offers significant advantages over PCR, as it allows us to analyze the entire genetic makeup of bacteria, enabling us to identify a broader range of specific resistance mechanisms with remarkable accuracy. While PCR is effective for identifying specific β-lactamase resistance genes, it  does not account for other resistance mechanisms such as porin mutations, efflux pumps and the activation of chromosomal β-lactamases genes. The study identified two main categories of resistance mechanisms: the acquisition of exogenous β-lactamases, such as CTX-M and NDM enzymes, and chromosomal gene inactivation events, like mutations in the OprD porin gene in _Pseudomonas aeruginosa_. It was found that only 65% of the predicted AMR events were linked to exogenous β-lactamase genes that could be detected using standard PCR techniques. This highlights a critical limitation of PCR, as it may not capture all resistance mechanisms, particularly those involving chromosomal mutations or other genetic alterations.\
+\
+**Comparison to BMD**
 
-**Discussion**
-
-The intersection of AMR and cancer epidemiology underscores the urgent need for effective infection prevention and control strategies. Implementing robust antimicrobial stewardship programs in oncology settings is essential to minimize inappropriate antibiotic use and preserve the efficacy of existing antibiotics. These programs have been shown to improve patient outcomes and reduce healthcare costs \[4]. Additionally, enhancing surveillance systems to monitor AMR patterns in cancer patients is crucial for timely interventions \[3].
+BMD is considered the gold standard for determining antimicrobial susceptibility; however, it is time-consuming and resource-intensive, making it less practical for routine clinical use. In contrast, WGS provides rapid results and can be performed in a single comprehensive procedure. The study found that WGS predictions agreed with BMD results in 93% of cases, demonstrating its reliability. Moreover, WGS showed a sensitivity of 0.87 and specificity of 0.98 compared to BMD, with positive and negative predictive values of 0.97 and 0.91, respectively. This performance indicates that WGS can serve as a robust alternative to traditional methods.
 
 **Conclusion**
 
-In conclusion, AMR poses a significant threat to cancer epidemiology, affecting patient outcomes and healthcare costs. As the incidence of drug-resistant infections rises, it is imperative for healthcare systems to implement comprehensive strategies that address both AMR and the unique needs of cancer patients. By fostering collaboration among healthcare providers, researchers, and policymakers, we can mitigate the impact of AMR and improve the quality of care for this vulnerable population.
-
- 
+Integrating WGS into clinical microbiology can significantly enhance antimicrobial resistance (AMR) detection, particularly in vulnerable cancer patients. This study highlights WGS's superiority over PCR and BMD for predicting AMR, suggesting that its advancement could transform AMR detection and improve patient outcomes in infection management
 
 **References**
 
-1. Infectious Diseases Society of America. (2024). _Cancer and Antimicrobial Resistance_. Retrieved from <https://www.idsociety.org/contentassets/b25d621bcebc4ec3a7f4fb5a73c2a6d5/infectious-diseases-and-cancer-fact-sheet_.pdf>
-2. The Lancet. (2022). _Global burden of bacterial antimicrobial resistance in 2019_. Retrieved from <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2821%2902724-0/fulltext>
-3. Union for International Cancer Control (UICC). (2024). _AMR and cancer series_. Retrieved from <https://www.uicc.org/what-we-do/sharing-knowledge/virtual-dialogues/amr-and-cancer-series>
-4. Centers for Disease Control and Prevention (CDC). (2024). _Impacts of Antimicrobial Resistance on Cancer Care_. Retrieved from <https://www.cdc.gov/antimicrobial-resistance/stories/impacts-of-antimicrobial-resistance-on-cancer-care.html>
-5. Pruvost, I., et al. (2023). _Clinical outcomes of antimicrobial resistance in cancer patients: a systematic review of multivariable models_. Retrieved from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10114324/>
+Shelburne, S. A., Kim, J., Munita, J. M., Sahasrabhojane, P., Shields, R. K., Press, E. G., ... & Greenberg, D. E. (2017). Whole-genome sequencing accurately identifies resistance to extended-spectrum β-lactams for major gram-negative bacterial pathogens. _Clinical Infectious Diseases_, _65_(5), 738-745.
 
  
